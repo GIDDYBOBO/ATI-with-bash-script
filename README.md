@@ -109,6 +109,4 @@ This lab provided hands-on experience with:
 * **Process Automation:** Streamlining security workflows through Bash loops and functions.
 * **Data Sanitization:** Managing and formatting large outputs for professional reporting.
 
----
-
-**Would you like me to help you write the `awk` command that converts these text files into a single HTML table for your report?**
+--- 
